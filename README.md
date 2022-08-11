@@ -36,6 +36,9 @@ Active states
 
 ### Links
 
+- Solution URL: [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-challenge-eghlqs9sxA)
+- Live Site URL: [GitHub Pages](https://jimaloko.github.io/advice-generator-app/)
+
 ## My process
 
 ### Built with
