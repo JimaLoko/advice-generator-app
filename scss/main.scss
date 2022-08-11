@@ -32,6 +32,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     .container {
         position: relative;
         background-color: $Dark-Grayish-Blue;
@@ -70,6 +71,15 @@ body {
                 box-shadow: 1px 1px 25px 7px rgba(82,255,168,0.91);
                 transform: rotate(180deg) scale(1.1);
             }
+        }
+    }
+    footer {
+        margin-top: 6rem;
+        color:$Light-Cyan;
+        font-size: 11px; 
+        text-align: center; 
+        a {
+            color: $Neon-Green;
         }
     }
 }
