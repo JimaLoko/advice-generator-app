@@ -37,7 +37,7 @@ body .container {
   align-items: center;
 }
 body .container p {
-  margin-top: 5rem;
+  margin-top: 4rem;
   margin-bottom: 2rem;
   color: hsl(150deg, 100%, 66%);
   text-transform: uppercase;
@@ -45,7 +45,7 @@ body .container p {
   letter-spacing: 5px;
 }
 body .container h1 {
-  width: 69%;
+  width: 80%;
   color: hsl(193deg, 38%, 86%);
   font-size: 2.8rem;
   margin-bottom: 3rem;
@@ -56,4 +56,9 @@ body .container a {
   background-color: hsl(150deg, 100%, 66%);
   padding: 2rem;
   border-radius: 50%;
+  transition: all 1s;
+}
+body .container a:hover {
+  box-shadow: 1px 1px 25px 7px rgba(82, 255, 168, 0.91);
+  transform: rotate(180deg) scale(1.1);
 }/*# sourceMappingURL=main.css.map */
